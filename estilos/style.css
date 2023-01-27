@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Inconsolata', monospace;
+}
+
+.hero{
+    background-image: url("../img/showroom2.jpg");
+    height: 100vh; 
+    font-family: 'Inconsolata', monospace;
+}
+
+
+.nav-item{
+    text-align: right;
+    text-transform: inherit;
+}
+.navbar-brand{
+    background-image: url("../img/Logo\ Corporativo\ Estudio\ Elegante\ Profesional\ Blanco\ Negro.png");
+    height: 70px;
+    width: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card-title{
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+}
+.car.carousel {
+    text-align: center;
+    min-width:max-content;
+    text-decoration-line: overline;
+}
+.nav-link{
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    text-decoration: wavy;
+    animation-delay: 2s;
+}
+    
+
+.container{
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    text-decoration: solid;
+    background-color: gold;
+    color: black;
+    background-size: cover;
+    margin: auto;
+}
+
+.piedepagina{
+    background-color: gold;
+    color: grey;
+    padding-block: 20px;
+    justify-content: space-around;
+    
+}
+.fa-brands{
+    color: blue;
+}
+
+#demo{
+    display: flex;
+    align-items: center;
+}
+.carousel-indicators{
+    align-items: center;
+
+}
+.carousel-inner{
+    width: 1000px;
+    height: 650px;
+    object-fit: cover;
+
+   
+}
+
+.accordion{
+    font-family: inconsolata;
+    text-decoration: double;
+
+}
+.form{
+    background-image: url(../img/pixa4.jpg);
+    text-align: center;
+    width: 100px;
+    height: 200px;    
+}
